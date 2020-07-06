@@ -1,0 +1,12 @@
+/home/bondarevivan/Github/AndroidGame/Game/build/CMakeFiles/rebuild_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/CMakeFiles/PROJECT.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/CMakeFiles/edit_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Common/CMakeFiles/rebuild_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Common/CMakeFiles/Common.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Common/CMakeFiles/edit_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Geometry/CMakeFiles/rebuild_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Geometry/CMakeFiles/Geometry.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Geometry/CMakeFiles/edit_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Game/CMakeFiles/rebuild_cache.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Game/CMakeFiles/Game.dir
+/home/bondarevivan/Github/AndroidGame/Game/build/Game/CMakeFiles/edit_cache.dir

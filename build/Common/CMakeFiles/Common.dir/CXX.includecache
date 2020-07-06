@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bondarevivan/Github/AndroidGame/Game/Common/Structs.cpp
+Structs.h
+/home/bondarevivan/Github/AndroidGame/Game/Common/Structs.h
+
+/home/bondarevivan/Github/AndroidGame/Game/Common/Structs.h
+unordered_map
+-
+unordered_set
+-
+vector
+-
+array
+-
+map
+-
+string
+-
+set
+-
+random
+-
+algorithm
+-
+deque
+-
+iostream
+-
+

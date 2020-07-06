@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -lGL -lGLU -lglut  -rdynamic CMakeFiles/PROJECT.dir/Main.cpp.o  -o PROJECT -lGL -lglut -lXi Common/libCommon.a Geometry/libGeometry.a Game/libGame.a 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Geometry/../Common/Structs.h
+unordered_map
+-
+unordered_set
+-
+vector
+-
+array
+-
+map
+-
+string
+-
+set
+-
+random
+-
+algorithm
+-
+deque
+-
+iostream
+-
+
+/home/bondarevivan/Github/AndroidGame/Game/Geometry/Point.cpp
+Point.h
+/home/bondarevivan/Github/AndroidGame/Game/Geometry/Point.h
+
+/home/bondarevivan/Github/AndroidGame/Game/Geometry/Point.h
+Common/Structs.h
+-
+stdexcept
+-
+
